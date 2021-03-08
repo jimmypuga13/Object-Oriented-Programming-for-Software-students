@@ -1,4 +1,4 @@
-**Jonathan Puga - Southwest Technical College - Software Development**
+# Jonathan Puga - Southwest Technical College - Software Development
 _This repository holds class assignments to showcase my programming skills_
 
 ## About me
